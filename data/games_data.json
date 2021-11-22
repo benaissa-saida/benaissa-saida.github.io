@@ -4,9 +4,9 @@
         "title": "FLOPPY BIRD",
         "description": "Pourriez-vous me faire voler ? Tentez de battre votre meilleur record.",
         "technos": [
-            "",
-            "",
-            ""
+            "HTML",
+            "CSS",
+            "JAVASCRIPT"
         ],
         "image": "",
         "url": ""
@@ -16,9 +16,9 @@
         "title": "ECLATE MOI",
         "description": "Générateur de bulle, combien pourriez vous en éclater ?",
         "technos": [
-            "",
-            "",
-            ""
+            "HTML",
+            "CSS",
+            "JAVASCRIPT"
         ],
         "image": "",
         "url": ""
@@ -36,13 +36,13 @@
         "url": ""
     },
     {
-        "id": "",
-        "title": "",
-        "description": "",
+        "id": "yoga_app",
+        "title": "YOGA APP",
+        "description": "Besoin de souffler, de vous étirez après une dure journée ? Vous êtes au bon endroit.",
         "technos": [
-            "",
-            "",
-            ""
+            "HTML",
+            "CSS",
+            "JAVASCRIPT"
         ],
         "image": "",
         "url": ""
