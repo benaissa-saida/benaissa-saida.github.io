@@ -1,5 +1,4 @@
-{ "others" :
-    [
+[
     {
         "id": "calculate",
         "title": "CALCULATE",
@@ -62,4 +61,3 @@
     }
 
 ]
-}
