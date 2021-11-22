@@ -1,51 +1,53 @@
-[
-    {
-        "id": "floppy bird",
-        "title": "FLOPPY BIRD",
-        "description": "Pourriez-vous me faire voler ? Tentez de battre votre meilleur record.",
-        "technos": [
-            "HTML",
-            "CSS",
-            "JAVASCRIPT"
-        ],
-        "image": "",
-        "url": ""
-    },
-    {
-        "id": "generateur de bulle",
-        "title": "ECLATE MOI",
-        "description": "Générateur de bulle, combien pourriez vous en éclater ?",
-        "technos": [
-            "HTML",
-            "CSS",
-            "JAVASCRIPT"
-        ],
-        "image": "",
-        "url": ""
-    },
-    {
-        "id": "morpion",
-        "title": "MORPION",
-        "description": "Se joue à deux, qui sera le meilleur d'entre vous ?",
-        "technos": [
-            "REACTJS",
-            "HTML",
-            "CSS"
-        ],
-        "image": "",
-        "url": ""
-    },
-    {
-        "id": "yoga_app",
-        "title": "YOGA APP",
-        "description": "Besoin de souffler, de vous étirez après une dure journée ? Vous êtes au bon endroit.",
-        "technos": [
-            "HTML",
-            "CSS",
-            "JAVASCRIPT"
-        ],
-        "image": "",
-        "url": ""
-    }
-
-]
+{ "games":
+    [
+        {
+            "id": "floppy bird",
+            "title": "FLOPPY BIRD",
+            "description": "Pourriez-vous me faire voler ? Tentez de battre votre meilleur record.",
+            "technos": [
+                "HTML",
+                "CSS",
+                "JAVASCRIPT"
+            ],
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": "generateur de bulle",
+            "title": "ECLATE MOI",
+            "description": "Générateur de bulle, combien pourriez vous en éclater ?",
+            "technos": [
+                "HTML",
+                "CSS",
+                "JAVASCRIPT"
+            ],
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": "morpion",
+            "title": "MORPION",
+            "description": "Se joue à deux, qui sera le meilleur d'entre vous ?",
+            "technos": [
+                "REACTJS",
+                "HTML",
+                "CSS"
+            ],
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": "yoga_app",
+            "title": "YOGA APP",
+            "description": "Besoin de souffler, de vous étirez après une dure journée ? Vous êtes au bon endroit.",
+            "technos": [
+                "HTML",
+                "CSS",
+                "JAVASCRIPT"
+            ],
+            "image": "",
+            "url": ""
+        }
+    
+    ]
+}
