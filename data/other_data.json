@@ -16,9 +16,9 @@
         "title": "クロック",
         "description": "Une montre analogique pour ne plus jamais être en retard.",
         "technos": [
-            "JAVASCRIPT",
             "HTML",
-            "CSS"
+            "CSS",
+            "JAVASCRIPT"
         ],
         "image": "",
         "url": ""
@@ -40,9 +40,9 @@
         "title": "GENERATOR",
         "description": "Envie de créer un mot de passe infaillible ? C'est ici que ça se passe",
         "technos": [
-            "",
-            "",
-            ""
+            "HTML",
+            "CSS",
+            "JAVASCRIPT"
         ],
         "image": "",
         "url": ""

@@ -28,9 +28,9 @@
         "title": "MORPION",
         "description": "Se joue à deux, qui sera le meilleur d'entre vous ?",
         "technos": [
-            "REACTJS",
             "HTML",
-            "CSS"
+            "CSS",
+            "REACTJS"
         ],
         "image": "",
         "url": ""
