@@ -8,8 +8,8 @@
             "CSS",
             "JAVASCRIPT"
         ],
-        "image": "",
-        "url": ""
+        "image": "https://benaissa-saida.github.io/assets/games/floppy-bird.png",
+        "url": "https://benaissa-saida.github.io/floppy_bird/"
     },
     {
         "id": "generateur de bulle",
@@ -44,8 +44,8 @@
             "CSS",
             "JAVASCRIPT"
         ],
-        "image": "",
-        "url": ""
+        "image": "https://benaissa-saida.github.io/assets/games/yoga-app.png",
+        "url": "https://daily-routine.netlify.app/"
     }
 
 ]
