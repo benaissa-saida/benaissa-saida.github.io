@@ -29,11 +29,11 @@
         "description": "La to do list pour mieux organiser sa vie et son travail",
         "technos": [
             "HTML",
-            "CSS",
+            "SCSS",
             "JAVASCRIPT"
         ],
-        "image": "",
-        "url": ""
+        "image": "https://benaissa-saida.github.io/assets/others/할-일.png",
+        "url": "https://har-lil.netlify.app/"
     },
     {
         "id": "generateur_mdp",
